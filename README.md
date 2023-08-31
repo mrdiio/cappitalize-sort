@@ -8,6 +8,5 @@ Type this command in your terminal to run the program:
 
 $ node index.js
 
-...
-
+## AUTHOR
 Dio
