@@ -7,7 +7,7 @@ Create a simple function that takes an array, and return a new array with cappit
 Type this command in your terminal to run the program:
 
 ```
-$ node index.js
+node index.js
 ```
 
 ### AUTHOR
